@@ -1,0 +1,8 @@
+CheeseBurger
+Fries
+FishandChips
+ChickenNuggets
+Tacos
+Pizza
+HotDogs
+Pitas

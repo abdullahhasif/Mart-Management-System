@@ -1,0 +1,56 @@
+*                          counter=5
+**                         counter_2=5
+***                        if (counter>=counter_2)
+****
+*****
+
+
+
+*****                   counter=5
+****                    counter_2=5
+***                     if (counter_2<=6-counter)
+**
+*
+
+
+*****                  counter=5
+ ****                  counter_2=5
+  ***                  if (counter<=counter_2)
+   **
+    *
+
+
+
+    *                  counter=5
+   **                  counter_2=5
+  ***                  if (counter_2>=6-counter)
+ ****
+*****
+
+
+    *                   counter=5
+   ***                  counter_2=9
+  *****                 if (counter_2>=6-counter && counter_2<=4+counter)
+ *******
+*********
+
+
+
+*********               counter=5   
+ *******                counter_2-9
+  *****                 if (counter_2>=counter && counter_2<=10-counter)
+   *** 
+    *
+
+
+    *                   counter=5
+   ***                  counter_2=9
+  *****                 if counter<=5? increment++: increment--;
+ *******                if (counter_2>=6-counter && counter_2<=4+counter)
+*********
+ *******
+  *****
+   ***
+    *
+
+   
